@@ -1,2 +1,2 @@
-# astra-19
-Code repository for Astra-19
+# astr-19
+Code repository for ASTR-19
