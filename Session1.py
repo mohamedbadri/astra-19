@@ -2,13 +2,13 @@
 
 
 #this function writes Hello World!
-def PrintHelloWorld():
+def Intro():
     print("Hello, my name is Mohamed Badri. I don't really have a favourite movie but I really like the Fast and Furious Series.")
 
 
 #We call the function 
 def main():
-    PrintHelloWorld()
+    Intro()
 
 
 #when we run the program this executes main()
